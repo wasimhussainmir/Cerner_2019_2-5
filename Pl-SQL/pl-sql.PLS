@@ -1,8 +1,8 @@
 declare 
---  cerner_2^5_2019
+--cerner_2^5_2019
 fac number :=1;    
 
--- // cerner_2^5_2019 
+--//cerner_2^5_2019 
 -- number n 
 -- taking input from the user 
 n number := &1;    
