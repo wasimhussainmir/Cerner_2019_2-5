@@ -20,7 +20,6 @@ end loop;
 -- end loop 
   
 -- print factorial
-dbms_output.put_line(fac);   
-  
+dbms_output.put_line(fac);
 -- end the begin 
 end;
