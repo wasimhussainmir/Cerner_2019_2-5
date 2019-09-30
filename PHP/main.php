@@ -4,7 +4,7 @@
 </head>
 <body>
 <?php
-// Recursion for Tower of Hanoi ( cerner_2^5_2019 )
+// Recursion for Tower of Hanoi ( cerner_2^5_2019)
 function towerOfHanoi($n, $from_rod, $to_rod, $aux_rod) { 
       
     if ($n === 1) { 
