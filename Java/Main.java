@@ -2,7 +2,7 @@
                             Java Program  for cerner_2^5_2019
 *******************************************************************************/
 class Main{
-//cerner_2^5_2019
+//cerner_2^5_2019 1:25 PM 5/15/2020
 public static void main(String args[])
 {  
  int n1=0,n2=1,n3,i,count=14;  
